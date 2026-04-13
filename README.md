@@ -3,7 +3,9 @@
 Copyright © 2020-2023 by Alan Bunning. All rights reserved. Released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 # Description
-Electronic transcriptions of early witnesses and some modern critical texts adhering to the Manuscript Encoding Specification (MES).
+Electronic transcriptions of early witnesses and some modern critical texts adhering to the Manuscript Encoding Specification (MES).  
+  
+The transcriptions must follow the Stephanus 1551 (carefull, not 1550!) versification ; the SR.txt critical text follows perfectly this versification, so you can refer to this text for versification.
 
 ````
 Glyph Purpose                   ASCII Description
