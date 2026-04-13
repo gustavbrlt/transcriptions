@@ -32,7 +32,6 @@ Glyph Purpose                   ASCII Description
   _   altered word division       5F  underscore 
   [   begin questionable text     5B  left square bracket 
   ]   end questionable text       5D  right square bracket 
-  +   verse present               2B  plus sign 
   -   verse absent                2D  hyphen-minus sign 
 ````
 
