@@ -35,7 +35,7 @@ Glyph Purpose                   ASCII Description
   [   begin questionable text     5B  left square bracket 
   ]   end questionable text       5D  right square bracket 
   -   verse absent                2D  hyphen-minus sign
-  ⋄   alternate verse number      --  --
+  ⋄   alternate verse number      --  diamond operator
 ````
 
 These transcriptions are generated directly from the CNTR and so any pull requests would not be directly applied. 
