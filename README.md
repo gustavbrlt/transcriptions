@@ -4,13 +4,6 @@ Copyright © 2020-2023 by Alan Bunning. All rights reserved. Released under the 
 
 # Description
 Electronic transcriptions of early witnesses and some modern critical texts adhering to the Manuscript Encoding Specification (MES).  
-  
-The transcriptions must follow the Stephanus 1551 (carefull, not 1550!) versification.  
-
-Regarding the Stephanus 1551 versification, in this repository :   
-- the SR.txt file doesn't have alternate verse number, compared to other critical texts  
-- the ST.txt has only one absent verse, compared to other critical texts
-
 ````
 Glyph Purpose                   ASCII Description
 ----- ------------------------- ----- --------------------
@@ -44,6 +37,15 @@ Glyph Purpose                   ASCII Description
 
 These transcriptions are generated directly from the CNTR and so any pull requests would not be directly applied. 
 For more information on how these codes are applied, see the <a href=https://greekcntr.org/resources/technical.pdf>CNTR Technical Reference</a> document.
+
+# Versification
+The transcriptions must follow the Stephanus 1551 (carefull, not 1550!) versification.  
+
+In this repository :   
+- the SR.txt file doesn't have alternate verse number, compared to other critical texts  
+- the ST.txt has only one absent verse, compared to other critical texts  
+
+So if you don't know the Stephanus 1551 versification, you can help yourself with the SR and ST critical texts to correctly versify a transcription.
 
 # License
 
