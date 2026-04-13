@@ -5,7 +5,11 @@ Copyright © 2020-2023 by Alan Bunning. All rights reserved. Released under the 
 # Description
 Electronic transcriptions of early witnesses and some modern critical texts adhering to the Manuscript Encoding Specification (MES).  
   
-The transcriptions must follow the Stephanus 1551 (carefull, not 1550!) versification ; the SR.txt (carefull, not ST.txt!) critical text follows perfectly this versification, so you can refer to this text for versification.
+The transcriptions must follow the Stephanus 1551 (carefull, not 1550!) versification.  
+
+Regarding the Stephanus 1551 versification, in this repository :   
+- the SR.txt file doesn't have alternate verse number, compared to other critical texts  
+- the ST.txt has only one absent verse, compared to other critical texts
 
 ````
 Glyph Purpose                   ASCII Description
